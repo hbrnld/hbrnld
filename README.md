@@ -25,10 +25,10 @@ While my interests are multifaceted, the main ones can be summarized as:
 [<img align="left" alt="MATLAB" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/matlabicon.png" />]()
 [<img align="left" alt="VBA" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/vbaicon.png" />]()
 [<img align="left" alt="VSCode" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/vscodeicon.png" />]()
-[<img align="left" alt="Excel" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/excelicon.png" />]()
+[<img align="mid" alt="Excel" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/excelicon.png" />]()
 [<img align="left" alt="PowerPoint" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/powerpointicon.png" />]()
 [<img align="left" alt="PowerBI" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/powerbicon.png" />]()
-[<img align="left" alt="LaTeX" width="52px" src="https://github.com/hbrnld/hbrnld/blob/main/images/latexicon.png" />]()
+[<img align="mid" alt="LaTeX" width="40px" src="https://github.com/hbrnld/hbrnld/blob/main/images/latexicon.png" />]()
 
 
 <!--
