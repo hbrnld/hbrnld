@@ -2,7 +2,7 @@
 
 Welcome to the first iteration of my GitHub profile. 
 
-I'm currently pursuing double-degree studies towards an *MSc in Financial Mathematics* at KTH and a *BSc in Business and Economics* at SSE. On track to graduate in June 2025. Moreover, I'm working part-time as a *Junior Quantitative Analyst* at Söderberg & Partners. 
+I'm currently pursuing double-degree studies towards an **MSc in Financial Mathematics** at KTH and a **BSc in Business and Economics** at SSE. On track to graduate in June 2025. Moreover, I'm working part-time as a *Junior Quantitative Analyst* at Söderberg & Partners. 
 
 Looking for all opportunities to meet new people, continue developing my skills and making an impact.
 
@@ -17,7 +17,9 @@ While my interests are multifaceted, the main ones can be summarized as:
 * Quantitative Finance
 
 
-### Languages and Tools
+### Languages
+Here's a collection of the programming languages and software I have some experience in!
+
 [<img align="left" alt="Python" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/pythonicon.png" />]()
 [<img align="left" alt="Pandas" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/pandasicon.png" />]()
 [<img align="left" alt="R" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/Ricon.png" />]()
