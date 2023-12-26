@@ -25,6 +25,6 @@ Looking for all opportunities to meet new people, continue developing my skills 
 [<img align="left" alt="PowerBI" width="26px" src="https://github.com/KodAgge/KodAgge/blob/main/images/powerbi.png" />]()
 
 
-<--
+<!--
 This is a comment
 -->
