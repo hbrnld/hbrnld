@@ -32,7 +32,20 @@ Here's a collection of the programming languages and software I have experience 
 [<img align="left" alt="PowerBI" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/powerbicon.png" />]()
 [<img align="left" alt="LaTeX" width="40px" src="https://github.com/hbrnld/hbrnld/blob/main/images/latexicon.png" />]()
 
-
 <!--
 This is a comment
 -->
+
+## 📈 Predicting Equity Fund Returns: The Impact of the Momentum Factor on Performance
+
+In collaboration with Söderberg & Partners, my bachelor thesis in applied mathematics and industrial economics was developed together with my co-author Pontus Hovberger. In the thesis, the impact of the momentum factor in equity fund returns is evaluated over the period 2000-2023. A multifactor model is developed, using factor attribution to explain the impact on fund performance over time by factors such as risk, size, value-growth orientation and momentum. Conclusions are made that while momentum have previously been successful in predicting future returns, particularly for growth-oriented funds, recent market situations have lead to underperformance.
+
+Here is an illustration of factor coefficients over time, highlighting the momentum crashes following the financial crisis in 2008 and during Covid-19. 
+
+<p align="center">
+  <img src="/images/MultifactorModel_fullPeriod.png" alt="Multifactor Coefficients" width="600"/>
+</p>
+
+<br>
+
+For a more in-depth look at the results, have a look at the **[thesis](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1827858&dswid=-3917)**.
