@@ -51,3 +51,17 @@ Here is an illustration of factor coefficients over time, illustrating the premi
 <br>
 
 For a more in-depth look at the results, have a look at the **[thesis](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1827858&dswid=-3917)**.
+
+<br><br>
+
+## 💣 Minesweeper in Python
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=minesweeper&title_color=000000)](https://github.com/hbrnld/minesweeper)
+
+Implementation of minesweeper as a final project in the introductory course in Python. Tkinter package is utilized for visuals, implementing all logic from scratch using basic packages and creating custom images for the each of the cells on the minefield. 
+
+<p align="center">
+  <img src="/images/minesweeper.png" alt="Multifactor Coefficients" width="400"/>
+</p>
+
+<br>
