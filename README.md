@@ -54,14 +54,14 @@ For a more in-depth look at the results, have a look at the **[thesis](https://k
 
 <br><br>
 
-## 💣 Minesweeper in Python
+## 🕸️ Implementing a Neural Network from scratch in Python
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=minesweeper&title_color=000000)](https://github.com/hbrnld/minesweeper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=NN-from-scratch&title_color=000000)](https://github.com/hbrnld/NN-from-scratch)
 
-Implementation of minesweeper as a final project in the introductory course in Python. Tkinter package is utilized for visuals, implementing all logic from scratch using basic packages and creating custom images for the each of the cells on the minefield. 
+Implementation of a 2-layer feed forward neural network from scratch using Python and Numpy library. The network is trained on labelled images from the CIFAR-10 data set with the purpose of classifying the images. Implementation is done by defining the architecture, initializing parameters and subsequently training the model using mini-batch gradient descent. Backpropogation is used to compute the gradients, finding analytical solutions required to update the weights and bias. Next, we extend the network to a $k$-layer network to assess whether predictive accuracy is increased by using a deeper network. Main code and report are found in the repository. 
 
 <p align="center">
-  <img src="/images/minesweeper.png" alt="Multifactor Coefficients" width="400"/>
+  <img src="/images/2-layerNN.png" alt="Network Visualization" width="400"/>
 </p>
 
 <br>
