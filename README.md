@@ -4,7 +4,9 @@ Welcome to my GitHub profile.
 
 I'm currently pursuing full-time double-degree studies towards an **M.Sc. in Financial Mathematics** at KTH and a **B.Sc. in Business and Economics** at SSE, on track to graduate in June 2025. Moreover, I'm also working part-time as a **Junior Quantitative Analyst** at Söderberg & Partners. 
 
-Looking for all opportunities to meet new people, continue developing my skills and making an impact.
+Looking for all opportunities to meet new people, continue developing my skills and making an impact. 
+
+If my skill set interests you, it is always possible to reach me <a href="mailto:hugo.brunlid@gmail.com">here</a>!
 
 ### Main areas of interest
 While my interests are multifaceted, the main ones can be summarized as: 
@@ -36,7 +38,6 @@ Here's a collection of the programming languages and software I have experience 
 <!--
 This is a comment
 -->
-
 <br><br>
 
 ## 🚀 Optiver Trading at the Close: Deep Learning Models
