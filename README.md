@@ -74,7 +74,7 @@ For a more in-depth look at the results, have a look at the **[thesis](https://k
 
 <br><br>
 
-## 🕸️ Implementing a Neural Network from Scratch in Python
+## ❄️ Implementing a Neural Network from Scratch in Python
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=NN-from-scratch&title_color=000000)](https://github.com/hbrnld/NN-from-scratch)
 
