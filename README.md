@@ -1,8 +1,8 @@
-# Hello! 💫
+# Hello! 🔥
 
 Welcome to my GitHub profile. 
 
-I'm currently pursuing double-degree studies towards an **MSc in Financial Mathematics** at KTH and a **BSc in Business and Economics** at SSE. On track to graduate in June 2025. Moreover, I'm working part-time as a **Junior Quantitative Analyst** at Söderberg & Partners. 
+I'm currently pursuing full-time double-degree studies towards an **M.Sc. in Financial Mathematics** at KTH and a **B.Sc. in Business and Economics** at SSE, on track to graduate in June 2025. Moreover, I'm also working part-time as a **Junior Quantitative Analyst** at Söderberg & Partners. 
 
 Looking for all opportunities to meet new people, continue developing my skills and making an impact.
 
@@ -10,11 +10,10 @@ Looking for all opportunities to meet new people, continue developing my skills 
 While my interests are multifaceted, the main ones can be summarized as: 
 
 * Mathematics
-* Applied Statistics
 * Quantitative Finance
-* Programming
-* Data Analysis
 * Machine Learning & Deep Learning
+* Stochastic Calculus
+* Financial Derivatives
 
 ### Languages
 Here's a collection of the programming languages and software I have experience in.
@@ -40,6 +39,24 @@ This is a comment
 
 <br><br>
 
+## 🚀 Optiver Trading at the Close: Deep Learning Models
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=Optiver-Trading-at-the-Close&title_color=000000)]([https://github.com/hbrnld/Optiver-Trading-at-the-Close])
+
+In this project, we implement a number of deep learning models for the competition *Trading at the Close* by Optiver. We merely aim to explore the intersection of financial markets and machine learning as predicting financial markets is a challenging and intriguing task due to their complex and dynamic nature. While the Efficient Market Hypothesis assets that asset prices fully reflect all available information, there might still be a presence of market inefficiencies to exploit.
+
+Initially, feature engineering was conducted to select the most significant features for the analysis. A total of five deep learning models were implemented using the PyTorch library in Python. These models include a Neural Network (NN), Recurrent Neural Network (RNN), Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), and a Transformer model. An ensemble model is developed to leverage the strengths of each individual model.
+
+**Note**: This code was developed post-competition, and inspiration for feature engineering and model selection is taked from top leaderboard submissions, including user **[nimashahbazi](https://github.com/nimashahbazi/optiver-trading-close/tree/master)**. 
+
+The following figure depicts feature importance from a selection of 159 total features, using CatBoost feature selection. 
+
+<p align="center">
+  <img src="/images/feature_importance.png" alt="Feature Importance" width="400"/>
+</p>
+
+<br><br>
+
 ## 📈 Predicting Equity Fund Returns: Impact of Momentum on Performance
 
 In collaboration with Söderberg & Partners, the bachelor thesis in Applied Mathematics and Industrial Economics was developed together with my co-author Pontus Hovberger. In the thesis, the impact of the momentum factor on equity fund returns is evaluated over the period 2000-2023. A multifactor model is developed, using factor attribution to explain the impact on fund performance over time by factors such as risk, size, value-growth orientation and momentum. Conclusions are made that while momentum have previously been successful in predicting future returns, particularly for growth-oriented funds, recent market situations have lead to underperformance.
@@ -60,12 +77,10 @@ For a more in-depth look at the results, have a look at the **[thesis](https://k
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=NN-from-scratch&title_color=000000)](https://github.com/hbrnld/NN-from-scratch)
 
-Implementation of a 2-layer feed forward neural network from scratch using Python and Numpy library. The network is trained on labelled images from the CIFAR-10 data set with the purpose of classifying the images. Implementation is done by defining the architecture, initializing parameters and subsequently training the model using mini-batch gradient descent. Backpropogation is used to compute the gradients, finding the analytical solutions required to update the weights and bias. 
-
-Next, we extend the network to a $k$-layer network to assess whether predictive accuracy is increased by using a deeper network [*in progress*]. Main code and report are found in the repository. 
+In this project, a feed-forward neural network is implemented from scratch using the Numpy library in Python. The architecture contains a forward pass, a backward pass with mini-batch efficient gradient computations using analytical solutions of the gradients. Furthermore, the network implements batch normalization and performs a search for the optimal regularization parameter lambda. In the bonus assignment, the Adam optimizer is implemented from scratch and some data augmentation is performed. CIFAR-10 is used as the underlying data set, containing batches of labelled images to be categorized. Even though a simple neural network is far from the optimal architecture for image classification, the implementation demonstrates understanding of the underlying aspects of a neural network. 
 
 <p align="center">
-  <img src="/images/2-layerNN.png" alt="Network Visualization" width="400"/>
+  <img src="/images/nn.png" alt="Network Architecture" width="400"/>
 </p>
 
 <br>
