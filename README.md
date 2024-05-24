@@ -41,7 +41,7 @@ This is a comment
 
 ## 🚀 Optiver Trading at the Close: Deep Learning Models
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=Optiver-Trading-at-the-Close&title_color=000000)]([https://github.com/hbrnld/Optiver-Trading-at-the-Close])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=Optiver-Trading-at-the-Close&title_color=000000)](https://github.com/hbrnld/Optiver-Trading-at-the-Close)
 
 In this project, we implement a number of deep learning models for the competition *Trading at the Close* by Optiver. We merely aim to explore the intersection of financial markets and machine learning as predicting financial markets is a challenging and intriguing task due to their complex and dynamic nature. While the Efficient Market Hypothesis assets that asset prices fully reflect all available information, there might still be a presence of market inefficiencies to exploit.
 
