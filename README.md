@@ -21,6 +21,7 @@ While my interests are multifaceted, the main ones can be summarized as:
 Here's a collection of the programming languages and software I have experience in.
 
 [<img align="left" alt="Python" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/pythonicon.png" />]()
+[<img align="left" alt="C++" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/cppicon.png" />]()
 [<img align="left" alt="PyTorch" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/pytorchicon.png" />]()
 [<img align="left" alt="NumPy" width="40px" src="https://github.com/hbrnld/hbrnld/blob/main/images/numpyicon.png" />]()
 [<img align="left" alt="Pandas" width="26px" src="https://github.com/hbrnld/hbrnld/blob/main/images/pandasicon.png" />]()
