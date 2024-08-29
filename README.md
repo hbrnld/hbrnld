@@ -45,11 +45,11 @@ This is a comment
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=Optiver-Trading-at-the-Close&title_color=000000)](https://github.com/hbrnld/Optiver-Trading-at-the-Close)
 
-In this project, we implement a number of deep learning models for the competition *Trading at the Close* by Optiver. We aim to explore the intersection of financial markets and machine learning since predicting financial markets is a challenging and intriguing task due to their complex and dynamic nature. While the Efficient Market Hypothesis asserts that asset prices fully reflect all available information, there might still be a presence of market inefficiencies to exploit.
+In this project, we implement a number of deep learning models for the competition *Trading at the Close* by Optiver. We aim to explore the intersection of financial markets and machine learning. Predicting financial markets is a challenging and intriguing task due to their complex and dynamic nature. While the Efficient Market Hypothesis asserts that asset prices fully reflect all available information, there might still be a presence of market inefficiencies to exploit.
 
-Initially, feature engineering was conducted to select the most significant features for the analysis. A total of five deep learning models were implemented using the PyTorch library in Python. These models include a Neural Network (NN), Recurrent Neural Network (RNN), Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), and a Transformer model. An ensemble model is developed to leverage the strengths of each individual model.
+Initially, feature engineering was conducted to select the most significant features for the analysis. A total of five deep learning models were implemented using the PyTorch library in Python. These models include a Neural Network (NN), Recurrent Neural Network (RNN), Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), and a Transformer model. An ensemble model was developed to leverage the strengths of each individual model.
 
-**Note**: This code was developed post-competition, and inspiration for feature engineering and model selection is taked from top leaderboard submissions, including user **[nimashahbazi](https://github.com/nimashahbazi/optiver-trading-close/tree/master)**. 
+**Note**: This code was developed post-competition, and inspiration for feature engineering and model selection was taken from top leaderboard submissions, including user **[nimashahbazi](https://github.com/nimashahbazi/optiver-trading-close/tree/master)**. 
 
 The following figure depicts feature importance from a total of 159 features, using CatBoost feature selection. 
 
@@ -58,6 +58,17 @@ The following figure depicts feature importance from a total of 159 features, us
 </p>
 
 <br><br>
+
+## ⚖️ Orderbook Matching Engine in C++ with Multiple Order Types
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=Orderbook&title_color=000000)](https://github.com/hbrnld/Orderbook)
+
+In this project, C++ is utilized to develop an order book employing Object-Oriented Programming principles. The order book supports four distinct order types: *Market*, *GoodUntilCancel*, *FillAndKill*, and *FillOrKill*. A matching engine, inspired by a tutorial from **[CodingJesus](https://github.com/Tzadiko/Orderbook)**, is implemented to handle the logic for pairing corresponding bid and ask orders, recording trades, and updating the order book accordingly. Additionally, a user interface is created to enable interaction with the order book, allowing users to add, modify, cancel, and visualize the current bid-ask prices and quantities.
+
+<p align="center">
+  <img src="/images/orderbook_1.png" alt="Orderbook" width="700"/>
+</p>
+
 
 ## 📈 Predicting Equity Fund Returns: Impact of Momentum on Performance
 
