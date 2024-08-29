@@ -57,8 +57,6 @@ The following figure depicts feature importance from a total of 159 features, us
   <img src="/images/feature_importance.png" alt="Feature Importance" width="400"/>
 </p>
 
-<br><br>
-
 ## ⚖️ Orderbook Matching Engine in C++ with Multiple Order Types
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hbrnld&repo=Orderbook&title_color=000000)](https://github.com/hbrnld/Orderbook)
